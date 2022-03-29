@@ -22,7 +22,7 @@
 
         <div class="navbar-end">
           <div class="navbar-item social">
-            <a href="#" class="icon" :title="facebookTooltip">
+            <!-- <a href="#" class="icon" :title="facebookTooltip">
               <i class="fab fa-facebook"></i>
             </a>
             <a href="#" class="icon" :title="twitterTooltip">
@@ -33,7 +33,7 @@
             </a>
             <a href="#" class="icon" :title="linkedinTooltip">
               <i class="fab fa-linkedin"></i>
-            </a>
+            </a> -->
           </div>
           <div class="navbar-item shopping-cart" @click="showCheckoutModal">
             <span class="icon">
