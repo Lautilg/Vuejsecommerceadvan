@@ -1,12 +1,13 @@
 <template>
   <div class="hero is-medium is-bold">
     <div class="hero-body">
-      <div class="container">
+      <div style="text-align:center" class="container">
+        <!-- <img src="vuejs.png" alt=""> -->
         <h1 class="title">
-          Free ecommerce template for Vue.js projects
+          Ecommerce for VueJS
         </h1>
         <h2 class="subtitle">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         </h2>
       </div>
     </div>
@@ -15,7 +16,7 @@
 
 <style lang="scss" scoped>
     .hero {
-      background: rgb(81, 186, 252);
+      background: green;
     }
     h1, h2 {
       color: #fff;

@@ -163,7 +163,7 @@ export default {
     z-index: 1;
 
     &:hover {
-      border: 1px solid #51bafc;
+      border: 1px solid green;
     }
  }
  .button,

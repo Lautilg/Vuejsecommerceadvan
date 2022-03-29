@@ -2,14 +2,14 @@
   "name": "vuejsecommerce",
   "version": "1.0.0",
   "description": "Responsive ecommerce template built with Vue.js and Nuxt.js",
-  "author": "",
+  "author": "Lautaro Griguelo <griguelolautaro@gmail.com>",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt generate"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Lautilg/Vuejsecommerceadvan.git"
   },
   "keywords": [
     "css",
